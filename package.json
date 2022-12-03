@@ -1,0 +1,19 @@
+{
+  "name": "energy-community-lookup",
+  "version": "1.0.0",
+  "description": "Npm package to wrap the logic of approving that an energy community exists",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jules1124/energy-community-lookup.git"
+  },
+  "author": "Jules1124",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jules1124/energy-community-lookup/issues"
+  },
+  "homepage": "https://github.com/Jules1124/energy-community-lookup#readme"
+}
